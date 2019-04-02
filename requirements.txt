@@ -4,4 +4,4 @@ pandas
 scipy
 statsmodels
 seaborn
-antimony
+antimony=2.9.4
