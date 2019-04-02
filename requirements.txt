@@ -4,4 +4,4 @@ pandas
 scipy
 statsmodels
 seaborn
-tellurium
+antimony
